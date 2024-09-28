@@ -52,7 +52,7 @@
                                                                     <nil key="textColor"/>
                                                                     <nil key="highlightedColor"/>
                                                                 </label>
-                                                                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" text="Lorem ipsum dolor sit er" textAlignment="justified" translatesAutoresizingMaskIntoConstraints="NO" id="WcV-kP-zZJ">
+                                                                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" text="Lorem ipsum dolor sit er" translatesAutoresizingMaskIntoConstraints="NO" id="WcV-kP-zZJ">
                                                                     <rect key="frame" x="0.0" y="17.000000000000004" width="194" height="36.333333333333343"/>
                                                                     <color key="textColor" systemColor="labelColor"/>
                                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
